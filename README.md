@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome João Vitor
+Meu nome é João Vitor
 
 - Estudante do [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
